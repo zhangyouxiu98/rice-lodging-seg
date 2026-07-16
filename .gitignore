@@ -8,6 +8,8 @@ lfw/
 model_data/
 .temp_miou_out/
 
+CLAUDE.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
